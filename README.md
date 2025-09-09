@@ -22,7 +22,9 @@ The file includes cleaned data, pivot tables, and the final dashboard in one pla
 2.Dataset: Bike Sales Data (sample dataset used for analysis)
 
 📂 Project Structure
+
 Bike-Sales-Dashboard/
+
 │── Bike-Sales-Dashboard.xlsx   # Contains cleaned data, pivot tables, and dashboard  
 │── README.md                   # Project documentation  
 │── screenshots/                # Dashboard images  
